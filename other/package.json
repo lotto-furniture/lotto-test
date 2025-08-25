@@ -1,0 +1,14 @@
+{
+  "name": "algorithm",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "distributeRedPackets": "tsx src/distributeRedPackets.ts",
+    "flatToTree": "tsx src/flatToTree.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "tsx": "^4.20.4",
+    "typescript": "~5.8.3"
+  }
+}

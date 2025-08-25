@@ -1,0 +1,6 @@
+packages:
+  - 'api'
+  - 'react'
+  - 'vue'
+  - 'other'
+  - 'test'
